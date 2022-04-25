@@ -1,6 +1,8 @@
 # Wave tutorial implementation
 
-UI: https://waveportal-starter-project.ivanparushev.repl.co/
+UI Demo: https://waveportal-starter-project.ivanparushev.repl.co/
+
+UI code: https://replit.com/@IvanParushev/waveportal-starter-project#src/App.jsx
 
 To run the smart contract (WavePortal.sol) locally:
 
